@@ -1,4 +1,4 @@
-### Hi, I'm ThinkingThigh 👋
+### Hi, I'm ThinkingThigh. 👋
 
 
 
