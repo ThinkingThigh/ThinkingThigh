@@ -13,6 +13,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThinkingThigh/ThinkingThigh/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThinkingThigh/ThinkingThigh/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThinkingThigh&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkingThigh&hide_border=true">
